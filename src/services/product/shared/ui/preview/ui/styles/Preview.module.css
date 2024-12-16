@@ -1,0 +1,14 @@
+.preview {
+    display: flex;
+    width: inherit;
+    height: inherit;
+    justify-content: center;
+    justify-items: center;
+}
+
+.preview>img {
+    display: grid;
+    height:inherit;
+    width: inherit;
+    object-fit: contain;
+}

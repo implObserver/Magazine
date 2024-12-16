@@ -1,0 +1,5 @@
+.entity__logo {
+    display: grid;
+    height: inherit;
+    width: min-content;
+}

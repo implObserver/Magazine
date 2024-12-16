@@ -1,0 +1,19 @@
+.wrapper__preview {
+    --background-color__wrapper__preview: #f8f7f5;
+}
+
+.wrapper__preview {
+    display: grid;
+    grid-area: once;
+    width: max(20vh, 120px);
+    height: max(20vh, 120px);
+    min-width: 120px;
+    min-height: 120px;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    background-color: var(--background-color__wrapper__preview);
+    border-radius: max(2vh, 15px);
+    overflow: hidden;
+}

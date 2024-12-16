@@ -1,0 +1,23 @@
+.bottom__line {
+    --hamburger__bar-width: 20px;
+    --hamburger__bar-height: 3px;
+    --hamburger__gap: 5px;
+    --hamburger__animation-timing: 200ms;
+    --hamburder__height: calc(var(--hamburger__bar-height)*3 + var(--hamburger__gap) *2);
+    --sqrt2: 1.41421356237;
+    --hamburder__line-width: calc(var(--hamburder__height) * var(--sqrt2));
+}
+
+.bottom__line {
+    width: var(--hamburger__bar-width);
+    height: var(--hamburger__bar-height);
+    background-color: black;
+    transform-origin: left center;
+    transition: rotate var(--hamburger__animation-timing) ease-in-out
+}
+
+.open {
+    rotate: -45deg;
+    width: var(--hamburder__line-width);
+    translate: 0 calc(var(--hamburger__bar-height)/2);
+}

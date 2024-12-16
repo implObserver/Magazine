@@ -1,0 +1,9 @@
+.entity__price {
+    display: grid;
+    padding: max(1vh, 1px);
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1vh;
+    font-size: max(2.5vh, 18px);
+    align-items: end;
+    justify-self: start;
+}

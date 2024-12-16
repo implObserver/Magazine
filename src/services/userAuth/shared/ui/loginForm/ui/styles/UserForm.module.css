@@ -1,0 +1,54 @@
+.form {
+    display: grid;
+    row-gap: calc(var(--responsive-size)*2);
+    color: var(--color_black-theme)
+}
+
+.form_group {
+    display: grid;
+    row-gap: calc(var(--responsive-size)*2);
+}
+
+.input {
+    outline: 0px rgba(0, 123, 255, 0.6) solid;
+    appearance: none;
+    transition:
+        outline 0.06s,
+        box-shadow .15s ease-in-out;
+    border: rgb(224, 224, 224) 1px solid;
+    border: 1px var(--color__grey-theme_accent) solid;
+    width: calc(var(--responsive-size)*30);
+    height: calc(var(--responsive-size)*6);
+    border-radius: calc(var(--responsive-size)*2);
+    padding-left: calc(var(--responsive-size)*1.5);
+    font-size: calc(var(--responsive-size)*2.5);
+}
+
+.input::placeholder {
+    color: var(--color_black-theme);
+    opacity: 0.4;
+}
+
+.input:focus {
+    outline: calc(var(--responsive-size)*0.4) rgba(0, 123, 255, 0.3) solid;
+}
+
+.button {
+    width: max-content;
+    appearance: none;
+    background-color: var(--color_black-theme);
+    height: calc(var(--responsive-size)*6);
+    width: calc(var(--responsive-size)*30);
+    border-radius: calc(var(--responsive-size)*2);
+    font-size: calc(var(--responsive-size)*2);
+    color: white;
+    cursor: pointer;
+}
+
+@media screen and (max-width:400px) {
+    .input {}
+}
+
+@media screen and (min-width:400px) {
+    .input {}
+}

@@ -1,0 +1,33 @@
+.heart {
+    --color__border: #8d8d8d;
+}
+
+.heart {
+    display: grid;
+    z-index: 1;
+    animation-duration: 0.3s;
+    animation-name: slidein;
+}
+
+.heart>svg>path:hover {
+    color: var(--color__border);
+}
+
+.click {
+    animation-duration: 0.3s;
+    animation-name: slidein;
+}
+
+@keyframes slidein {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}

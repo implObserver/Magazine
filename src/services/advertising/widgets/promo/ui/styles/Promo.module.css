@@ -1,0 +1,9 @@
+.promo {
+    display: grid;
+    background-color: rgb(214, 247, 247);
+    height: max(50px, 5vh);
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}

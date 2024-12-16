@@ -1,0 +1,8 @@
+.logo {
+    width: calc(var(--responsive-size)*25);
+    height: calc(var(--responsive-size)*7);
+    background-size: contain;
+    background-repeat: no-repeat;
+    min-width: 260px;
+    background-image: url(../../../../../../../public/Logo.svg);
+}

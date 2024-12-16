@@ -1,0 +1,9 @@
+.last__price {
+    --last__price-color: grey;
+}
+
+.last__price {
+    color: var(--last__price-color);
+    font-size: max(1.5vh, 12px);
+    text-decoration: line-through;
+}

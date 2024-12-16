@@ -1,0 +1,13 @@
+.button {
+    display: grid;
+    width: 100%;
+    justify-self: center;
+    height: 100%;
+    border-radius: calc(var(--responsive-size)*1.8);
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: calc(var(--responsive-size)*2);
+}

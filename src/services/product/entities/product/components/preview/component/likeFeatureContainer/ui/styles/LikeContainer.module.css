@@ -1,0 +1,12 @@
+.container__like {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    justify-self: right;
+    grid-area: once;
+    width: max(3vh,25px);
+    height: max(3vh,25px);
+    padding: max(2.5vh, 15px);
+}

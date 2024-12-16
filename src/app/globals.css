@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --color__grey-theme: #f7f8fa;
+  --color__grey-theme_accent: #dedfe0;
+  --color__grey-theme_accent_2: #b1b1b1;
+  --color_black-theme: #292933;
+  --color__dark-theme: #35393c;
+  --color__dark-theme_accent: #46484b;
+  --color__dark-text_color: #b7b4af;
+
+  --base__price-color: black;
+  --dicount__price-color: green;
+  --dicount-high__price-color: red;
+  --last__price-color: grey;
+  
+  color-scheme: light dark;
+  --responsive-size: 1vw;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+@media (min-width: 1000px) {
+  :root {
+    --responsive-size: 10px;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}

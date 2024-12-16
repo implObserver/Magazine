@@ -1,0 +1,45 @@
+.container__input {
+    display: grid;
+    align-items: center;
+    height: 35px;
+    border: 2px var(--color__main-theme) solid;
+    border-radius: 7px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    align-items: center;
+    height: min-content;
+    height: 100%;
+}
+
+.wrapper>button {
+    display: grid;
+    appearance: none;
+    width: 80px;
+    height: inherit;
+    align-items: center;
+    background-color: var(--color__main-theme);
+    font-size: 14px;
+}
+
+.wrapper>input {
+    appearance: none;
+    outline: none;
+    width: 100%;
+    padding-left: 10px;
+    height: inherit;
+    border-radius: 7px 0 0 7px;
+}
+
+.container__input:focus-within {
+    transition: border 200ms ease-in-out;
+    border: 2px white solid;
+}
+
+.container__input:focus-within>.wrapper>button {
+    border-radius: 5px;
+    transition: border-radius 200ms ease-in-out;
+}

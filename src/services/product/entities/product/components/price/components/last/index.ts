@@ -1,0 +1,1 @@
+export { LastPrice } from './ui/LastPrice'

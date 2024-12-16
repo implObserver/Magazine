@@ -1,0 +1,8 @@
+.showcase {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    border-radius: min(1vw, 2vh);
+    overflow: hidden;
+    height: 100%;
+}

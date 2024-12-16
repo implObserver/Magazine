@@ -1,0 +1,11 @@
+.container__keyword {
+    display: flex;
+    width: min-content;
+    justify-content: space-between;
+}
+
+.container__remover {
+    border: 1px red solid;
+    width: 15px;
+    height: 15px;
+}

@@ -1,0 +1,17 @@
+.base__price {
+    --base__price-color: black;
+    --dicount__price-color: green;
+    --dicount-high__price-color: red;
+}
+
+.base__price {
+    color: var(--base__price-color);
+}
+
+.discount__price {
+    color: var(--dicount__price-color);
+}
+
+.discount__price__hight {
+    color: var(--dicount-high__price-color);
+}

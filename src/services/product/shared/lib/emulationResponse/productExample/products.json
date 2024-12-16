@@ -1,0 +1,1139 @@
+{
+    "0": {
+        "id": 0,
+        "isFavourite": {
+            "val": false,
+            "writable": true
+        },
+        "price": {
+            "discount": true,
+            "price": 1200,
+            "discountPrice": 935,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Футболка мужская с принтом Душнила, белая"
+        },
+        "categories": [
+            "одежда",
+            "подарок другу"
+        ],
+        "tags": [
+            "футболки"
+        ],
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5207084/img_id7544811628703084324.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5207084/img_id7544811628703084324.png/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5207084/img_id7544811628703084324.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5207084/img_id7544811628703084324.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5207084/img_id7544811628703084324.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5207084/img_id7544811628703084324.png/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4472189/img_id4056578281216818522.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4472189/img_id4056578281216818522.png/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/4472189/img_id4056578281216818522.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4472189/img_id4056578281216818522.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4472189/img_id4056578281216818522.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4472189/img_id4056578281216818522.png/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/3986581/img_id4806112930349552988.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/3986581/img_id4806112930349552988.png/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/3986581/img_id4806112930349552988.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/3986581/img_id4806112930349552988.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/3986581/img_id4806112930349552988.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/3986581/img_id4806112930349552988.png/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "1": {
+        "id": 1,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": false,
+            "price": 800,
+            "discountPrice": 15650,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Ложка десертная из нержавеющей стали, набор из 4 штук"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5218438/2a0000018a45bb4e3e3eb71b1f72984f8156/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5218438/2a0000018a45bb4e3e3eb71b1f72984f8156/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5218438/2a0000018a45bb4e3e3eb71b1f72984f8156/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5218438/2a0000018a45bb4e3e3eb71b1f72984f8156/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5218438/2a0000018a45bb4e3e3eb71b1f72984f8156/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5218438/2a0000018a45bb4e3e3eb71b1f72984f8156/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5216721/2a0000018a45bb4d9eb5f1d605ec7d116161/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5216721/2a0000018a45bb4d9eb5f1d605ec7d116161/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/5216721/2a0000018a45bb4d9eb5f1d605ec7d116161/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5216721/2a0000018a45bb4d9eb5f1d605ec7d116161/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5216721/2a0000018a45bb4d9eb5f1d605ec7d116161/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5216721/2a0000018a45bb4d9eb5f1d605ec7d116161/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5242361/2a0000018a45bb4e76394143537064619db7/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5242361/2a0000018a45bb4e76394143537064619db7/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5242361/2a0000018a45bb4e76394143537064619db7/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5242361/2a0000018a45bb4e76394143537064619db7/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5242361/2a0000018a45bb4e76394143537064619db7/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5242361/2a0000018a45bb4e76394143537064619db7/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "2": {
+        "id": 2,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 125000,
+            "discountPrice": 86499.99,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Смартфон PineApple YouPhone 12 256 TБ, nano SIM+eSIM, белый"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5209712/img_id7967628409202511747.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5209712/img_id7967628409202511747.png/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5209712/img_id7967628409202511747.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5209712/img_id7967628409202511747.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5209712/img_id7967628409202511747.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5209712/img_id7967628409202511747.png/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4304169/img_id8422340633941399767.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4304169/img_id8422340633941399767.jpeg/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/4304169/img_id8422340633941399767.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4304169/img_id8422340633941399767.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4304169/img_id8422340633941399767.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4304169/img_id8422340633941399767.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4944925/img_id6923370375670547670.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4944925/img_id6923370375670547670.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4944925/img_id6923370375670547670.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4944925/img_id6923370375670547670.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4944925/img_id6923370375670547670.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4944925/img_id6923370375670547670.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4076910/img_id5399365225141985852.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4076910/img_id5399365225141985852.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4076910/img_id5399365225141985852.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4076910/img_id5399365225141985852.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4076910/img_id5399365225141985852.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4076910/img_id5399365225141985852.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4380539/img_id3995470145856849477.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4380539/img_id3995470145856849477.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4380539/img_id3995470145856849477.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4380539/img_id3995470145856849477.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4380539/img_id3995470145856849477.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4380539/img_id3995470145856849477.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/11482776/img_id5347002069349444466.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/11482776/img_id5347002069349444466.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/11482776/img_id5347002069349444466.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/11482776/img_id5347002069349444466.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/11482776/img_id5347002069349444466.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/11482776/img_id5347002069349444466.jpeg/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "3": {
+        "id": 3,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 9000,
+            "discountPrice": 7599,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Аккумуляторная дрель-шуруповерт Шурупчикчик 1.3 А\\ч, в коробке"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5251231/img_id8035004058794274814.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5251231/img_id8035004058794274814.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5251231/img_id8035004058794274814.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5251231/img_id8035004058794274814.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5251231/img_id8035004058794274814.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5251231/img_id8035004058794274814.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/12420404/img_id4403132801073695161.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/12420404/img_id4403132801073695161.png/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/12420404/img_id4403132801073695161.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/12420404/img_id4403132801073695161.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/12420404/img_id4403132801073695161.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/12420404/img_id4403132801073695161.png/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/12352681/img_id5268824397718883515.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/12352681/img_id5268824397718883515.png/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/12352681/img_id5268824397718883515.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/12352681/img_id5268824397718883515.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/12352681/img_id5268824397718883515.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/12352681/img_id5268824397718883515.png/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "4": {
+        "id": 4,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 800,
+            "discountPrice": 519,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Мельница для специй электрическая, Электромельница, Перцемолка электрическая, Мельница для соли, Мельница для перца, Мельница для специй"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/11474376/2a0000018ea0372e13f3c9fa455219323357/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/11474376/2a0000018ea0372e13f3c9fa455219323357/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/11474376/2a0000018ea0372e13f3c9fa455219323357/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/11474376/2a0000018ea0372e13f3c9fa455219323357/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/11474376/2a0000018ea0372e13f3c9fa455219323357/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/11474376/2a0000018ea0372e13f3c9fa455219323357/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/11846738/2a0000018eb832fa993b77c7437c411b3cfe/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/11846738/2a0000018eb832fa993b77c7437c411b3cfe/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/11846738/2a0000018eb832fa993b77c7437c411b3cfe/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/11846738/2a0000018eb832fa993b77c7437c411b3cfe/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/11846738/2a0000018eb832fa993b77c7437c411b3cfe/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/11846738/2a0000018eb832fa993b77c7437c411b3cfe/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5324096/2a0000018ea0372e1d937da300b36219a569/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5324096/2a0000018ea0372e1d937da300b36219a569/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5324096/2a0000018ea0372e1d937da300b36219a569/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5324096/2a0000018ea0372e1d937da300b36219a569/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5324096/2a0000018ea0372e1d937da300b36219a569/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5324096/2a0000018ea0372e1d937da300b36219a569/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "5": {
+        "id": 5,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 9500,
+            "discountPrice": 8499,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Умные часы Watch 4 Silver Gray"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5212780/2a0000018f1316e19165bb72afb8a3171387/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5212780/2a0000018f1316e19165bb72afb8a3171387/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5212780/2a0000018f1316e19165bb72afb8a3171387/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5212780/2a0000018f1316e19165bb72afb8a3171387/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5212780/2a0000018f1316e19165bb72afb8a3171387/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5212780/2a0000018f1316e19165bb72afb8a3171387/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5116414/2a0000018f1316e18e09ad1114cef174d783/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5116414/2a0000018f1316e18e09ad1114cef174d783/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/5116414/2a0000018f1316e18e09ad1114cef174d783/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5116414/2a0000018f1316e18e09ad1114cef174d783/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5116414/2a0000018f1316e18e09ad1114cef174d783/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5116414/2a0000018f1316e18e09ad1114cef174d783/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/11900957/2a0000018f1316e18e99e2a07f4bbe9e43cc/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/11900957/2a0000018f1316e18e99e2a07f4bbe9e43cc/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/11900957/2a0000018f1316e18e99e2a07f4bbe9e43cc/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/11900957/2a0000018f1316e18e99e2a07f4bbe9e43cc/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/11900957/2a0000018f1316e18e99e2a07f4bbe9e43cc/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/11900957/2a0000018f1316e18e99e2a07f4bbe9e43cc/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "6": {
+        "id": 6,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 940,
+            "discountPrice": 1290,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Футболка мужская с принтом Суетолог, белая"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/364668/img_id7740543882472133461.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/364668/img_id7740543882472133461.png/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/364668/img_id7740543882472133461.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/364668/img_id7740543882472133461.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/364668/img_id7740543882472133461.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/364668/img_id7740543882472133461.png/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/2017233/img_id885516459413928360.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/2017233/img_id885516459413928360.png/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/2017233/img_id885516459413928360.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/2017233/img_id885516459413928360.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/2017233/img_id885516459413928360.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/2017233/img_id885516459413928360.png/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4709279/img_id913684530635588790.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4709279/img_id913684530635588790.png/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4709279/img_id913684530635588790.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4709279/img_id913684530635588790.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4709279/img_id913684530635588790.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4709279/img_id913684530635588790.png/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "7": {
+        "id": 7,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": false,
+            "price": 4100,
+            "discountPrice": 0,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Ботинки коричневые, Моднявые"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4568822/img_id4067325590554376436.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4568822/img_id4067325590554376436.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4568822/img_id4067325590554376436.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4568822/img_id4067325590554376436.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4568822/img_id4067325590554376436.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4568822/img_id4067325590554376436.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5332179/img_id5053290137910574895.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5332179/img_id5053290137910574895.jpeg/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/5332179/img_id5053290137910574895.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5332179/img_id5053290137910574895.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5332179/img_id5053290137910574895.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5332179/img_id5053290137910574895.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5238586/img_id4216712471754528159.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5238586/img_id4216712471754528159.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5238586/img_id4216712471754528159.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5238586/img_id4216712471754528159.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5238586/img_id4216712471754528159.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5238586/img_id4216712471754528159.jpeg/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "8": {
+        "id": 8,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "highDiscount": true,
+            "price": 2500000,
+            "discountPrice": 99000,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Смартфон PlatiBablo 20 Pro 12/256 ГБ RU, Dual nano SIM, Magic Skin 2.0 Green"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/12476287/2a0000018dc0e2fd983c16e215f673bc5474/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/12476287/2a0000018dc0e2fd983c16e215f673bc5474/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/12476287/2a0000018dc0e2fd983c16e215f673bc5474/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/12476287/2a0000018dc0e2fd983c16e215f673bc5474/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/12476287/2a0000018dc0e2fd983c16e215f673bc5474/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/12476287/2a0000018dc0e2fd983c16e215f673bc5474/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/12256862/img_id3229555136553475464.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/12256862/img_id3229555136553475464.png/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/12256862/img_id3229555136553475464.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/12256862/img_id3229555136553475464.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/12256862/img_id3229555136553475464.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/12256862/img_id3229555136553475464.png/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/12500095/img_id314123609714538479.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/12500095/img_id314123609714538479.png/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/12500095/img_id314123609714538479.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/12500095/img_id314123609714538479.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/12500095/img_id314123609714538479.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/12500095/img_id314123609714538479.png/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "9": {
+        "id": 9,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 5600,
+            "discountPrice": 4500,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Стул стремянка, стул трансформер, деревянный стул раскладной"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/2014136/img_id2840314619568779219.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/2014136/img_id2840314619568779219.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/2014136/img_id2840314619568779219.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/2014136/img_id2840314619568779219.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/2014136/img_id2840314619568779219.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/2014136/img_id2840314619568779219.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4880759/img_id2955070517213079580.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4880759/img_id2955070517213079580.png/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/4880759/img_id2955070517213079580.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4880759/img_id2955070517213079580.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4880759/img_id2955070517213079580.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4880759/img_id2955070517213079580.png/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/1985106/img_id5403528355874443866.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/1985106/img_id5403528355874443866.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/1985106/img_id5403528355874443866.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/1985106/img_id5403528355874443866.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/1985106/img_id5403528355874443866.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/1985106/img_id5403528355874443866.jpeg/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "10": {
+        "id": 10,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 3000,
+            "discountPrice": 1490,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Карты Harry Potter Deck - Blue"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4362548/img_id1234105252509195162.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4362548/img_id1234105252509195162.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4362548/img_id1234105252509195162.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4362548/img_id1234105252509195162.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4362548/img_id1234105252509195162.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4362548/img_id1234105252509195162.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4322107/img_id377155011322673067.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4322107/img_id377155011322673067.jpeg/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/4322107/img_id377155011322673067.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4322107/img_id377155011322673067.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4322107/img_id377155011322673067.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4322107/img_id377155011322673067.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/1707869/img_id2875351034859057115.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/1707869/img_id2875351034859057115.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/1707869/img_id2875351034859057115.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/1707869/img_id2875351034859057115.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/1707869/img_id2875351034859057115.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/1707869/img_id2875351034859057115.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4397559/img_id835130277205758868.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4397559/img_id835130277205758868.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4397559/img_id835130277205758868.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4397559/img_id835130277205758868.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4397559/img_id835130277205758868.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4397559/img_id835130277205758868.jpeg/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "11": {
+        "id": 11,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 690,
+            "discountPrice": 330,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Подставка для столовых приборов, ножей, ложек / Органайзер для кухни для губки и щетки / Сушилка для посуды настольная"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4557391/img_id6554132373239079758.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4557391/img_id6554132373239079758.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4557391/img_id6554132373239079758.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4557391/img_id6554132373239079758.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4557391/img_id6554132373239079758.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4557391/img_id6554132373239079758.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5219059/img_id1956886728464377492.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5219059/img_id1956886728464377492.jpeg/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/5219059/img_id1956886728464377492.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5219059/img_id1956886728464377492.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5219059/img_id1956886728464377492.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5219059/img_id1956886728464377492.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5111824/img_id8675572365723874160.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5111824/img_id8675572365723874160.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5111824/img_id8675572365723874160.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5111824/img_id8675572365723874160.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5111824/img_id8675572365723874160.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5111824/img_id8675572365723874160.jpeg/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "12": {
+        "id": 12,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 6600,
+            "discountPrice": 4799,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Вентилятор PFF EN-1627 1шт/коробка"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4525599/img_id7559791347680888380.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4525599/img_id7559791347680888380.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4525599/img_id7559791347680888380.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4525599/img_id7559791347680888380.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4525599/img_id7559791347680888380.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4525599/img_id7559791347680888380.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4407413/img_id970380720060543609.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4407413/img_id970380720060543609.jpeg/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/4407413/img_id970380720060543609.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4407413/img_id970380720060543609.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4407413/img_id970380720060543609.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4407413/img_id970380720060543609.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/1970506/img_id3026995441497164846.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/1970506/img_id3026995441497164846.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/1970506/img_id3026995441497164846.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/1970506/img_id3026995441497164846.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/1970506/img_id3026995441497164846.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/1970506/img_id3026995441497164846.jpeg/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "13": {
+        "id": 13,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 1000000,
+            "discountPrice": 999999,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Trisolarans VR Game, дешего, блестящая купить недорого"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/2008455/img_id7689252678621823144.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/2008455/img_id7689252678621823144.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/2008455/img_id7689252678621823144.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/2008455/img_id7689252678621823144.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/2008455/img_id7689252678621823144.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/2008455/img_id7689252678621823144.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4303817/img_id3301789154092912824.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4303817/img_id3301789154092912824.jpeg/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/4303817/img_id3301789154092912824.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4303817/img_id3301789154092912824.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4303817/img_id3301789154092912824.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4303817/img_id3301789154092912824.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/2008455/img_id2181578578770729775.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/2008455/img_id2181578578770729775.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/2008455/img_id2181578578770729775.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/2008455/img_id2181578578770729775.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/2008455/img_id2181578578770729775.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/2008455/img_id2181578578770729775.jpeg/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "14": {
+        "id": 14,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 514,
+            "discountPrice": 399,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Стакан пива(есть шанс получить два)"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4428744/2a0000018e315675551d3badfc1b9b2260f4/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4428744/2a0000018e315675551d3badfc1b9b2260f4/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4428744/2a0000018e315675551d3badfc1b9b2260f4/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4428744/2a0000018e315675551d3badfc1b9b2260f4/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4428744/2a0000018e315675551d3badfc1b9b2260f4/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4428744/2a0000018e315675551d3badfc1b9b2260f4/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5251330/2a0000018e3156754fb8ec75831b1fb7b475/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5251330/2a0000018e3156754fb8ec75831b1fb7b475/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/5251330/2a0000018e3156754fb8ec75831b1fb7b475/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5251330/2a0000018e3156754fb8ec75831b1fb7b475/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5251330/2a0000018e3156754fb8ec75831b1fb7b475/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5251330/2a0000018e3156754fb8ec75831b1fb7b475/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5236733/2a0000018e3156755775d8239ea69e23c645/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5236733/2a0000018e3156755775d8239ea69e23c645/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5236733/2a0000018e3156755775d8239ea69e23c645/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5236733/2a0000018e3156755775d8239ea69e23c645/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5236733/2a0000018e3156755775d8239ea69e23c645/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5236733/2a0000018e3156755775d8239ea69e23c645/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "15": {
+        "id": 15,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 25000,
+            "discountPrice": 15650,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Мультитул брелок ПРИБЛУДА XXX полупрозрачный красный"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4397006/img_id4241050680634566594.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4397006/img_id4241050680634566594.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4397006/img_id4241050680634566594.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4397006/img_id4241050680634566594.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4397006/img_id4241050680634566594.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4397006/img_id4241050680634566594.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/1614201/img_id5881139114214462333.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/1614201/img_id5881139114214462333.jpeg/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/1614201/img_id5881139114214462333.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/1614201/img_id5881139114214462333.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/1614201/img_id5881139114214462333.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/1614201/img_id5881139114214462333.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4415357/img_id1072721758161096324.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4415357/img_id1072721758161096324.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4415357/img_id1072721758161096324.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4415357/img_id1072721758161096324.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4415357/img_id1072721758161096324.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4415357/img_id1072721758161096324.jpeg/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "16": {
+        "id": 16,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 2200,
+            "discountPrice": 1000,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Маска для сна Igga"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/1943683/img_id3723981451902667738.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/1943683/img_id3723981451902667738.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/1943683/img_id3723981451902667738.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/1943683/img_id3723981451902667738.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/1943683/img_id3723981451902667738.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/1943683/img_id3723981451902667738.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/1428687/img_id3092539854490867024.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/1428687/img_id3092539854490867024.jpeg/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/1428687/img_id3092539854490867024.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/1428687/img_id3092539854490867024.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/1428687/img_id3092539854490867024.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/1428687/img_id3092539854490867024.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/1591646/img_id1377902332924452101.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/1591646/img_id1377902332924452101.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/1591646/img_id1377902332924452101.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/1591646/img_id1377902332924452101.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/1591646/img_id1377902332924452101.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/1591646/img_id1377902332924452101.jpeg/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "17": {
+        "id": 17,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 600,
+            "discountPrice": 459,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Калькулятор инженерный двухстрочный SC-880-N, 417 функций, 10+2 разрядов, батарея, белый, 250526"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4370207/img_id2263552661217491733.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4370207/img_id2263552661217491733.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4370207/img_id2263552661217491733.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4370207/img_id2263552661217491733.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4370207/img_id2263552661217491733.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4370207/img_id2263552661217491733.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5255164/img_id538041456056525701.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5255164/img_id538041456056525701.jpeg/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/5255164/img_id538041456056525701.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5255164/img_id538041456056525701.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5255164/img_id538041456056525701.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5255164/img_id538041456056525701.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/331398/img_id8077718356692940194.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/331398/img_id8077718356692940194.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/331398/img_id8077718356692940194.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/331398/img_id8077718356692940194.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/331398/img_id8077718356692940194.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/331398/img_id8077718356692940194.jpeg/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "18": {
+        "id": 18,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 2600,
+            "discountPrice": 1800,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Ящик для хранения документов формата А4 с защелками, коробка для хранения вещей, игрушек и прочих бытовых мелочей, контейнер для порядка в доме"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/1045304/2a0000018ad6869834e00d6ca687a6258cef/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/1045304/2a0000018ad6869834e00d6ca687a6258cef/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/1045304/2a0000018ad6869834e00d6ca687a6258cef/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/1045304/2a0000018ad6869834e00d6ca687a6258cef/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/1045304/2a0000018ad6869834e00d6ca687a6258cef/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/1045304/2a0000018ad6869834e00d6ca687a6258cef/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/10683269/2a0000018ad6869683923abecd21323a74f1/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/10683269/2a0000018ad6869683923abecd21323a74f1/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/10683269/2a0000018ad6869683923abecd21323a74f1/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/10683269/2a0000018ad6869683923abecd21323a74f1/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/10683269/2a0000018ad6869683923abecd21323a74f1/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/10683269/2a0000018ad6869683923abecd21323a74f1/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/10683269/2a0000018ad686991f8f388038db08fde744/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/10683269/2a0000018ad686991f8f388038db08fde744/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/10683269/2a0000018ad686991f8f388038db08fde744/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/10683269/2a0000018ad686991f8f388038db08fde744/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/10683269/2a0000018ad686991f8f388038db08fde744/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/10683269/2a0000018ad686991f8f388038db08fde744/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "19": {
+        "id": 19,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 5000,
+            "discountPrice": 3999,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Шахматы большие деревянные"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5391380/img_id773227889938300701.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5391380/img_id773227889938300701.png/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5391380/img_id773227889938300701.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5391380/img_id773227889938300701.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5391380/img_id773227889938300701.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5391380/img_id773227889938300701.png/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4725655/img_id5280842780953066630.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4725655/img_id5280842780953066630.png/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/4725655/img_id5280842780953066630.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4725655/img_id5280842780953066630.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4725655/img_id5280842780953066630.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4725655/img_id5280842780953066630.png/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4785755/img_id1657102126635398940.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4785755/img_id1657102126635398940.png/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4785755/img_id1657102126635398940.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4785755/img_id1657102126635398940.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4785755/img_id1657102126635398940.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4785755/img_id1657102126635398940.png/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "20": {
+        "id": 20,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": true,
+            "price": 1400,
+            "discountPrice": 999,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Солнцезащитные очки Jabba Hutt"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/4585707/img_id4296547748367493744.png/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/4585707/img_id4296547748367493744.png/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/4585707/img_id4296547748367493744.png/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/4585707/img_id4296547748367493744.png/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/4585707/img_id4296547748367493744.png/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/4585707/img_id4296547748367493744.png/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/1860966/img_id3103282353647176604.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/1860966/img_id3103282353647176604.jpeg/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/1860966/img_id3103282353647176604.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/1860966/img_id3103282353647176604.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/1860966/img_id3103282353647176604.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/1860966/img_id3103282353647176604.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5272194/img_id870593925671874675.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5272194/img_id870593925671874675.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5272194/img_id870593925671874675.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5272194/img_id870593925671874675.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5272194/img_id870593925671874675.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5272194/img_id870593925671874675.jpeg/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/7980765/img_id7360999458126150336.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/7980765/img_id7360999458126150336.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/7980765/img_id7360999458126150336.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/7980765/img_id7360999458126150336.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/7980765/img_id7360999458126150336.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/7980765/img_id7360999458126150336.jpeg/600x800"
+                    ]
+                }
+            ]
+        }
+    },
+    "21": {
+        "id": 21,
+        "isFavourite": {
+            "val": false
+        },
+        "price": {
+            "discount": false,
+            "price": 8599,
+            "discountPrice": 15650,
+            "currency": "₽"
+        },
+        "description": {
+            "description": "Гитара акустическая"
+        },
+        "preview": {
+            "urls": [
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/12633564/2a0000018d5e0f344ac7638d84b4140e4613/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/12633564/2a0000018d5e0f344ac7638d84b4140e4613/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/12633564/2a0000018d5e0f344ac7638d84b4140e4613/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/12633564/2a0000018d5e0f344ac7638d84b4140e4613/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/12633564/2a0000018d5e0f344ac7638d84b4140e4613/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/12633564/2a0000018d5e0f344ac7638d84b4140e4613/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/12523390/2a0000018d5f5bff4397e55c04dcd26a33d7/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/12523390/2a0000018d5f5bff4397e55c04dcd26a33d7/120x160 ",
+                        "https://avatars.mds.yandex.net/get-mpic/12523390/2a0000018d5f5bff4397e55c04dcd26a33d7/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/12523390/2a0000018d5f5bff4397e55c04dcd26a33d7/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/12523390/2a0000018d5f5bff4397e55c04dcd26a33d7/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/12523390/2a0000018d5f5bff4397e55c04dcd26a33d7/600x800"
+                    ]
+                },
+                {
+                    "url": "https://avatars.mds.yandex.net/get-mpic/5234525/img_id3965235866300945682.jpeg/orig",
+                    "srcSet": [
+                        "https://avatars.mds.yandex.net/get-mpic/5234525/img_id3965235866300945682.jpeg/120x160",
+                        "https://avatars.mds.yandex.net/get-mpic/5234525/img_id3965235866300945682.jpeg/180x240",
+                        "https://avatars.mds.yandex.net/get-mpic/5234525/img_id3965235866300945682.jpeg/240x320",
+                        "https://avatars.mds.yandex.net/get-mpic/5234525/img_id3965235866300945682.jpeg/300x400",
+                        "https://avatars.mds.yandex.net/get-mpic/5234525/img_id3965235866300945682.jpeg/600x800"
+                    ]
+                }
+            ]
+        }
+    }
+}

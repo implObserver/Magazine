@@ -1,0 +1,7 @@
+.menu__top {
+    display: grid;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
