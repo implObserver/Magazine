@@ -5,7 +5,7 @@ export const SearchPanel = () => {
     const context = useSearchPanelContext();
 
     const inputHandle = (e: React.ChangeEvent<HTMLInputElement>) => {
-        context.setValue(e.target.value);
+        context.state.setState(e.target.value);
     }
 
     return (
@@ -13,7 +13,7 @@ export const SearchPanel = () => {
             <div className={styles.wrapper}>
                 <input
                     type="text"
-                    value={context.value}
+                    value={context.state.getState()}
                     onInput={inputHandle}
                     placeholder='Искать товары'
                     autoComplete="off"

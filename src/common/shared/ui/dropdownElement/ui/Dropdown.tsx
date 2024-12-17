@@ -1,7 +1,7 @@
 import styles from './styles/Dropdown.module.css'
 import { useDropdownContext } from '../lib/context/Context.';
 
-export const Dropdown = ({ children }) => {
+export const Dropdown = ({ children }: { children: React.ReactNode }) => {
     const status = useDropdownContext();
 
     return (

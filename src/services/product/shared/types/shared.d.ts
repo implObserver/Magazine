@@ -32,15 +32,37 @@ interface LogoContextType {
 
 interface SearchPanelContextType {
     trigger: boolean,
-    setValue: React.Dispatch<React.SetStateAction<string>>,
-    value: string,
+    state: StateHandler<string>,
 }
 
 interface ResultsContainerContextType {
     keywords: string[],
-    setValue: React.Dispatch<React.SetStateAction<string>>,
+    state: StateHandler<string>,
 }
 
 interface KeywordContainerContextType {
-    setValue: React.Dispatch<React.SetStateAction<string>>,
+    state: StateHandler<string>,
+}
+
+interface ProductContextType {
+    id: number,
+    price: Price,
+    description: Description,
+    preview: Preview,
+}
+
+interface Price {
+    discount: boolean,
+    highDiscount: boolean,
+    price: string,
+    discountPrice: string,
+    currency: string,
+}
+
+interface Description {
+    description: string
+}
+
+interface Preview {
+    urls: Array<PreviewUrls>,
 }

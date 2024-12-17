@@ -1,9 +1,9 @@
 'use client';
 
 import { useState } from "react";
-import { useProductContext } from "#/services/product/entities/product";
 import { Like, LikeContext } from "#/services/product/shared/ui/like";
 import { favoritesStore } from "#/services/product/entities/favorites";
+import { useProductContext } from "#/services/product/shared/lib";
 
 export const AddToFavorites = () => {
     const context = useProductContext();

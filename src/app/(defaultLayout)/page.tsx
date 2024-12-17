@@ -1,4 +1,4 @@
-import { Products } from '#/services/product/widgets/products';
+import { Products } from '#/services/product/gadgets/products';
 import Link from 'next/link';
 
 const MainPage = () => {
