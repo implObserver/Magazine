@@ -12,15 +12,18 @@
     "autoprefixer": "^10.4.20",
     "axios": "^1.7.9",
     "localforage": "^1.10.0",
+    "lodash": "^4.17.21",
     "mobx": "^6.13.5",
     "mobx-persist": "^0.4.1",
     "mobx-react": "^9.1.1",
     "mobx-react-lite": "^4.0.7",
+    "mobx-state-tree": "^7.0.0",
     "next": "15.1.0",
     "react": "^18.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@types/lodash": "^4.17.13",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

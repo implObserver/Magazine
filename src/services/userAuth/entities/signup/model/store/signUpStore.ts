@@ -1,24 +1,33 @@
-import { makeAutoObservable } from "mobx";
+import { types, flow } from "mobx-state-tree";
 import { signUp } from "./thunks/auth/signup";
 
-class SignUpStore {
-    data: SignUpFieldsType = {
-        username: '',
-        email: '',
-        password: '',
-    }
+const SignUpFieldsModel = types.model("SignUpFields", {
+    username: types.string,
+    email: types.string,
+    password: types.string,
+});
 
-    constructor() {
-        makeAutoObservable(this);
-    }
+const SignUpStore = types
+    .model("SignUpStore", {
+        data: SignUpFieldsModel,
+    })
+    .actions((self) => ({
+        updateData(data: typeof self.data) {
+            self.data = data;
+        },
+        signUp: flow(function* () {
+            try {
+                yield signUp(self.data);
+            } catch (error) {
+                console.error(error);
+            }
+        }),
+    }));
 
-    updateData(data: SignUpFieldsType) {
-        this.data = data;
-    }
-
-    async signUp() {
-        await signUp(this.data);
-    }
-}
-
-export const signUpStore = new SignUpStore();
+export const signUpStore = SignUpStore.create({
+    data: {
+        username: "",
+        email: "",
+        password: "",
+    },
+});
