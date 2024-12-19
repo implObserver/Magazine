@@ -3,6 +3,7 @@ import styles from './styles/Auth.module.css'
 import { SubmitOfSignup } from '#/services/userAuth/features/submitOfSignup';
 import { SubmitOfLogin } from '#/services/userAuth/features/submitOfLogin';
 import { useCustomState } from '#/common/shared/lib';
+import { NotificationDistributor } from '#/common/features/notificationDistributor';
 
 
 export const Auth = () => {
@@ -40,6 +41,10 @@ export const Auth = () => {
                 {type.getState() === 'signup'
                     ? <SubmitOfSignup />
                     : <SubmitOfLogin />}
+            </div>
+            <div className={styles.notification}>
+                <NotificationDistributor id={'signup'}></NotificationDistributor>
+                <NotificationDistributor id={'login'}></NotificationDistributor>
             </div>
         </div>
     )

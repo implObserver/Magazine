@@ -1,7 +1,7 @@
 
 import styles from './styles/LoginForm.module.css'
-import { loginStore } from '../model'
 import { LoginForm, LoginFormContext } from '#/services/userAuth/shared/ui/loginForm'
+import { loginStore } from '#/states/subStores/userAuth/login'
 
 export const Login = () => {
     return (

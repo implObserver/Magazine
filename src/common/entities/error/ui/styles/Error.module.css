@@ -1,0 +1,8 @@
+.error {
+    display: grid;
+    padding: var(--responsive-size);
+    margin: var(--responsive-size);
+    width: 100%;
+    border-radius: var(--responsive-size);
+    background-color: rgba(255, 0, 0, 0.5);
+}

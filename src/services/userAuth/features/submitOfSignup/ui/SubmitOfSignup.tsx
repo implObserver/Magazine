@@ -1,16 +1,30 @@
-import { Signup, signUpStore } from "#/services/userAuth/entities/signup";
-import { FormEvent } from "react";
+import { SpinnerLoader } from "#/common/shared/ui/spinnerLoader";
+import { Signup } from "#/services/userAuth/entities/signup";
+import { signUpStore } from "#/states/subStores/userAuth/signup";
+import { observer } from "mobx-react";
+import { FormEvent, useState } from "react";
+import styles from './styles/SubmitOfSignup.module.css'
 
-export const SubmitOfSignup = () => {
+export const SubmitOfSignup = observer(() => {
+    const [isSubmitting, setIsSubmitting] = useState(false);
 
-    const submitHandle = (e: FormEvent<HTMLDivElement>) => {
+    const submitHandle = async (e: FormEvent<HTMLFormElement>) => {
         e.preventDefault();
-        signUpStore.signUp();
+        setIsSubmitting(true);
+        await signUpStore.signUp();
+        setIsSubmitting(false);
     }
 
     return (
-        <div onSubmit={submitHandle}>
+        <form className={styles.container} onSubmit={submitHandle}>
             <Signup></Signup>
-        </div>
+            {isSubmitting ? (
+                <SpinnerLoader></SpinnerLoader>
+            ) : (
+                <button className={styles.button} type='submit'>
+                    Далее
+                </button>
+            )}
+        </form>
     )
-}
+});

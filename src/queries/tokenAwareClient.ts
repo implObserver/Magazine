@@ -2,7 +2,7 @@ import axios from "axios";
 
 let currentRetryCount: number = 0;
 
-const apiUrl = process.env.SERVER_URL;
+const apiUrl = 'http://localhost:3000/';
 
 export const tokenAwareClient = axios.create({
     withCredentials: true,
@@ -18,6 +18,7 @@ tokenAwareClient.interceptors.response.use(
         if (axios.isAxiosError(error)) {
             if (error.response) {
                 if (error.response.status === 401) {
+                    console.log(apiUrl)
                     currentRetryCount++;
                     if (currentRetryCount === 1) {
                         console.warn('Попытка обновить access token');

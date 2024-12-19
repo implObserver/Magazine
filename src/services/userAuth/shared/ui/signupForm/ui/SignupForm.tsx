@@ -20,7 +20,7 @@ export const SignupForm = observer(() => {
     }
 
     return (
-        <form className={styles.form}>
+        <div className={styles.form}>
             <div className={styles.form_group}>
                 <input
                     onChange={handle}
@@ -58,7 +58,6 @@ export const SignupForm = observer(() => {
                     required>
                 </input>
             </div>
-            <button className={styles.button} type='submit'>Далее</button>
-        </form>
+        </div>
     )
 })

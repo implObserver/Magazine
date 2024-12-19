@@ -1,0 +1,33 @@
+.box {
+    display: grid;
+    border: 1px red solid;
+}
+
+.open {
+    animation: open 1s ease-in-out;
+}
+
+.close {
+    animation: close 1s ease-in-out;
+}
+
+@keyframes open {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes close {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+        display: none;
+    }
+}

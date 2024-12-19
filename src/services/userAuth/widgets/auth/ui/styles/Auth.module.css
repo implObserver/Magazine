@@ -1,10 +1,12 @@
 .auth {
     display: grid;
+    position: relative;
     width: calc(var(--responsive-size)*37);
     height: calc(var(--responsive-size)*60);
     padding: var(--responsive-size);
     background-color: white;
     justify-content: center;
+    justify-items: center;
     align-items: center;
     border-radius: calc(var(--responsive-size)*2);
 }
@@ -37,4 +39,11 @@
     width: calc(var(--responsive-size)*30);
     height: calc(var(--responsive-size)*34);
     border-radius: calc(var(--responsive-size)*2);
+    align-items: start;
+}
+
+.notification {
+    font-size: calc(var(--responsive-size)*1.5);
+    position: absolute;
+    bottom: 0;
 }

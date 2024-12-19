@@ -13,12 +13,13 @@ export const LoginForm = observer(() => {
     }
 
     const handle = (e: React.ChangeEvent<HTMLInputElement>) => {
-        const { id, value } = e.target;
-        context.updateData({ ...context.data, [id]: value });
+        const newData: LoginFieldsType = { ...data };
+        newData[e.target.id] = e.target.value
+        context.updateData(newData);
     }
 
     return (
-        <form className={styles.form}>
+        <div className={styles.form}>
             <div className={styles.form_group}>
                 <input
                     onChange={handle}
@@ -44,7 +45,6 @@ export const LoginForm = observer(() => {
                     required>
                 </input>
             </div>
-            <button className={styles.button} type='submit'>Далее</button>
-        </form>
+        </div>
     )
 })

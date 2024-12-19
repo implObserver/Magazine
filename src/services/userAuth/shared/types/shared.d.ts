@@ -1,4 +1,5 @@
 interface LoginFieldsType {
+    [key: string],
     identifier: string,
     password: string,
 }
